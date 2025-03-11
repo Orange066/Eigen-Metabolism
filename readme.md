@@ -1,4 +1,4 @@
-# Eigen learning-based  metabolic information commonality in Pan-cancer
+# Eigen Learning-based  Metabolic Information Commonality Analysis in Pan-cancer
 
 This repository hosts the official implementation of the methods discussed in our paper  "Eigen learning-based  metabolic information commonality in Pan-cancer".
 
