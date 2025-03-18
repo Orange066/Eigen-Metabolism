@@ -4,7 +4,7 @@ This repository hosts the official implementation of the methods discussed in ou
 
 ## Prepare the enviroment
 
-1. Clone this repository and navigate to FairMul-VLM folder
+1. Clone this repository and navigate to Eigen-Metabolism folder
 
 ```
 git clone https://github.com/Orange066/Eigen-Metabolism.git
