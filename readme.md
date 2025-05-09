@@ -38,9 +38,10 @@ Please download our preprocessed datasets from the [Zenodo repository](https://d
 
 ```
 Eigen-Metabolism/
-    enzyme/
-        data/
-        datasets_ori/
+    datasets/
+        enzyme/
+            data/
+            datasets_ori/
     metabolite/
         M_stage/
             data_all/
